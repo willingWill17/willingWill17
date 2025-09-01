@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thang Nguyen</h1>
-<h3 align="center">A passionate AI engineer from UIT-VNUHCM</h3>
 
 - 🔭 I’m currently working on **Cipher, a memory layer for coding agent**
 
