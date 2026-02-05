@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thang Nguyen</h1>
 
-- 🔭 I’m currently working on **Cipher, a memory layer for coding agent**
+- 🔭 I’m currently working on **an Intelligence Platform for AI, focused on memory, reasoning, and agent orchestration**
 
-- 🌱 I’m currently learning **full-stack development and service deployment**
+- 🌱 I’m currently learning **full-stack AI systems, distributed services, and scalable deployment**
 
 - 📫 Reach me through: **nguyentienthang258@gmail.com**
 
