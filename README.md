@@ -1,4 +1,2 @@
-I'm finding myself. 
-
-And going back stronger 💪.
+I'm loving my life.
 
